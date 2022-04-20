@@ -1,0 +1,14 @@
+.carousel-background{background-color: #FEEAE9;}
+.Price{color: #FF247A;}
+.buy{padding: 9px 25px;color: white; font-size: larger; border-radius: 8px; cursor: pointer; border: none; 
+    margin-top: 10px; background-image: linear-gradient(to right, #FEEAE9, #FF247A)}
+.carousel-item{padding: 40px;}
+.container{margin-bottom: 100px;}
+.cat1{background-color: orange; }
+.cat2{background-color: orchid;}
+.cat3{background-color: blue;}
+.cat1,.cat2,.cat3{padding: 10px 30px;border-radius: 10px;color: white;cursor: pointer;}
+.categories img{width: 100px;}
+.card{border: none; box-shadow: 5px 5px 10px lightgrey;}
+.subscribe{height: 300px;background-color: #FEEAE9;}
+footer{text-align: center;}
